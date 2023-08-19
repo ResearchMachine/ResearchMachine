@@ -41,7 +41,7 @@
 6. [Conference Report, 2018] [Конференция актуальные проблемы приклад. математ.](https://elibrary.ru/item.asp?id=36308015), Нальчик–Эльбрус.  
 7. [Conference Report, 2018] [Международная науч. конференция: «Нигматуллинские чтения»](https://www.elibrary.ru/item.asp?id=36770999), Казань.  
 8. [Conference Report, 2017] [Международная науч. конференция Inter. Conf. on Math. Model. in Appl. Sciences.](https://drive.google.com/file/d/10TF3ykGnCAFmkqVJBLMwIU0wyTNL3nGA/view) Saint Peter., Polytech.,   
-9. [Conference Report, 2017][ Конференция многофазные системы: модели, эксперимент, приложения.](https://www.elibrary.ru/item.asp?id=30054752)https://www.elibrary.ru/item.asp?id=30054752 Уфа.
+9. [Conference Report, 2017][ Конференция многофазные системы: модели, эксперимент, приложения.](https://www.elibrary.ru/item.asp?id=30054752) Уфа.
 
 
 
