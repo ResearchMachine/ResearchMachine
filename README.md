@@ -39,7 +39,7 @@ upscaling of layered heterogeneous medium.](https://drive.google.com/file/d/1qET
 <sub>5. [Conference Report, 2019] [XII Всеросс. съезд по фунд. пробл. теор. и приклад. механики](https://elibrary.ru/item.asp?id=41402692), Уфа.</sub>    
 <sub>6. [Conference Report, 2018] [Конференция актуальные проблемы приклад. математ.](https://elibrary.ru/item.asp?id=36308015), Нальчик–Эльбрус.</sub>    
 <sub>7. [Conference Report, 2018] [Международная науч. конференция: «Нигматуллинские чтения»](https://www.elibrary.ru/item.asp?id=36770999), Казань.</sub>    
-<sub>8. [Conference Report, 2017] [International Conference on Mathematical Modelling in Applied Sciences.](https://icmmas.alpha-publishing.net/files/Abstract-Book.pdf), [PDF](https://drive.google.com/file/d/10TF3ykGnCAFmkqVJBLMwIU0wyTNL3nGA/view) Saint Peter., Polytech.,</sub>    
+<sub>8. [Conference Report, 2017] [International Conference on Mathematical Modelling in Applied Sciences.](https://icmmas.alpha-publishing.net/files/Abstract-Book.pdf), Saint Peter., Polytech., [PDF](https://drive.google.com/file/d/10TF3ykGnCAFmkqVJBLMwIU0wyTNL3nGA/view). </sub>    
 <sub>9. [Conference Report, 2017][ Конференция многофазные системы: модели, эксперимент, приложения.](https://www.elibrary.ru/item.asp?id=30054752) Уфа.</sub> 
 
 
