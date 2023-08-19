@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <sub>About info.</sub>
 2. :briefcase: GPN Second Project :  
 <sub>About info.</sub>
-3. Third
+3. Third  
 <sub>About info.</sub>
 4. :mortar_board: [Modeling of Undeground Flow in Fractal Media.](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling)  
 <sub>Master Degree Project. Programming Language: Maple 18. Company: USATU, 2016.</sub>
