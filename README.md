@@ -34,11 +34,22 @@
 ## ✍️ Publications 
 1. [Article, Scopus, 2021] Метод прогноза добычи на основе статистического анализа малой выборки промысловых данных для нетрадиционной
 формации.  
+<sub>About.</sub>
 2. [Article, Scopus, 2020] Идентификация фрактальных свойств и апскейлинг параметров слоисто-неоднородного пласта.  
+<sub>About.</sub>
 3. [Scopus Publication, 2019] Numerical investigation of radial steady-state fluid flow model with Riesz potential, Greece, Rhodes.  
+<sub>About.</sub>
 4. [Article] Buckley-Leverett flow on limited-scale fractal curves.  
+<sub>About.</sub>
 5. [Conference Report, 2019] XII Всеросс. съезд по фунд. пробл. теор. и приклад. механики, Уфа.  
+<sub>About.</sub>
 6. [Conference Report, 2018] Конференция актуальные проблемы приклад. математ., Нальчик–Эльбрус.  
+<sub>About.</sub>
 7. [Conference Report, 2018] Международная науч. конференция: «Нигматуллинские чтения», Казань.  
+<sub>About.</sub>
 8. [Conference Report, 2017] Международная науч. конференция Inter. Conf. on Math. Model. in Appl. Sciences, Polytech., Saint Peter.  
-9. [Conference Report, 2017] Конференция многофазные системы: модели, эксперимент, приложения, Уфа.  
+<sub>About.</sub>
+9. [Conference Report, 2017] Конференция многофазные системы: модели, эксперимент, приложения, Уфа.
+<sub>About.</sub>
+
+
