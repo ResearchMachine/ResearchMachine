@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 <sub>About info, 2020.</sub>
 5. :briefcase: :mortar_board: [work-project-fractal-derivative-compare-power-law-buckley-leverett-flow](https://github.com/ResearchMachine/work-project-fractal-derivative-compare-power-law-buckley-leverett-flow)  
 <sub>About info, 2020.</sub>
-6. :briefcase: [work-project-radial-fractial-derivative-numerical-scheme](https://github.com/ResearchMachine/work-project-radial-fractial-derivative-numerical-scheme)  
+6. :briefcase: :mortar_board: [work-project-radial-fractial-derivative-numerical-scheme](https://github.com/ResearchMachine/work-project-radial-fractial-derivative-numerical-scheme)  
 <sub>About info, 2019.</sub>
-7. :briefcase: :mortar_board: [work-project-fractal-property-identification](https://github.com/ResearchMachine/work-project-fractal-property-identification)  
+7. :briefcase: [work-project-fractal-property-identification](https://github.com/ResearchMachine/work-project-fractal-property-identification)  
 <sub>About info, 2018.</sub>
 8. :mortar_board: [Modeling of Undeground Flow in Fractal Media.](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling)  
 <sub>Master Degree Project. Programming Language: Maple 18. Company: USATU, 2018.</sub>
