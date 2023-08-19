@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 1. :rocket: First Project 
 2. :briefcase: GPN Second Project :
 3. Third
-4. :mortar_board: [Modeling of Undeground Flow in Fractal Media.](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling) Master Degree Project. Programming Language: Maple 18. Company: USATU, 2016.
-5. :mortar_board: [Three-phase flow model in a porous medium. Analytical solutions of a system of nonlinear differential equations.](https://github.com/ResearchMachine/bachelor-diploma-project-exact-solution-3phase-buckley-leverett-flow/blob/main/README.md) Bachelor Degree Project. Programming Language: Maple 18. Company: USATU, 2016.
+4. :mortar_board: [Modeling of Undeground Flow in Fractal Media.](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling)  
+<sub>Master Degree Project. Programming Language: Maple 18. Company: USATU, 2016.</sub>
+6. :mortar_board: [Three-phase flow model in a porous medium. Analytical solutions of a system of nonlinear differential equations.](https://github.com/ResearchMachine/bachelor-diploma-project-exact-solution-3phase-buckley-leverett-flow/blob/main/README.md)  
+<sub>Bachelor Degree Project. Programming Language: Maple 18. Company: USATU, 2016.</sub>
 
 Analytical solutions of system of nonlinear differential equations describing flow of multiphase fluid in porous medium (2016)
 
