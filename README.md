@@ -1,6 +1,6 @@
 <h1 align="center">Ildar Abdulin</h1>
 
-👯 I’m looking to collaborate on Data Science project.
+👯 I’m looking to collaborate on Data Science project. 
 
 <!--
 Эмодзи https://gist.github.com/rxaviers/7360908
