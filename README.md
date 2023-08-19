@@ -23,20 +23,20 @@ Here are some ideas to get you started:
 
 
 ## :computer: Main Projects 
-1. :rocket: [commercial-project-ml-mvp-insight-in-real-estate-moscow](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow), 2023
-<sub>About info.</sub>
-2. :briefcase: [commercial-project-hydrodynamic-in-predictive-complex](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex), 2022
-<sub>About info.</sub>
-3. [commercial-project-parcing-of-predictive-complex](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex), 2021
-<sub>About info.</sub>
-4. [commercial-project-small-oil-data-analysis](https://github.com/ResearchMachine/commercial-project-small-oil-data-analysis), 2020
-<sub>About info.</sub>
-5. [work-project-fractal-derivative-compare-power-law-buckley-leverett-flow](https://github.com/ResearchMachine/work-project-fractal-derivative-compare-power-law-buckley-leverett-flow), 2020
-<sub>About info.</sub>
-6. [work-project-radial-fractial-derivative-numerical-scheme](https://github.com/ResearchMachine/work-project-radial-fractial-derivative-numerical-scheme), 2019
-<sub>About info.</sub>
-7. [work-project-fractal-property-identification](https://github.com/ResearchMachine/work-project-fractal-property-identification), 2018
-<sub>About info.</sub>
+1. :rocket: [commercial-project-ml-mvp-insight-in-real-estate-moscow](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow)  
+<sub>About info, 2023.</sub>
+2. :briefcase: [commercial-project-hydrodynamic-in-predictive-complex](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex)  
+<sub>About info, 2022.</sub>
+3. :briefcase: [commercial-project-parcing-of-predictive-complex](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex)  
+<sub>About info, 2021.</sub>
+4. :briefcase: [commercial-project-small-oil-data-analysis](https://github.com/ResearchMachine/commercial-project-small-oil-data-analysis)  
+<sub>About info, 2020.</sub>
+5. :briefcase: :mortar_board: [work-project-fractal-derivative-compare-power-law-buckley-leverett-flow](https://github.com/ResearchMachine/work-project-fractal-derivative-compare-power-law-buckley-leverett-flow)  
+<sub>About info, 2020.</sub>
+6. :briefcase: [work-project-radial-fractial-derivative-numerical-scheme](https://github.com/ResearchMachine/work-project-radial-fractial-derivative-numerical-scheme)  
+<sub>About info, 2019.</sub>
+7. :briefcase: :mortar_board: [work-project-fractal-property-identification](https://github.com/ResearchMachine/work-project-fractal-property-identification)  
+<sub>About info, 2018.</sub>
 8. :mortar_board: [Modeling of Undeground Flow in Fractal Media.](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling)  
 <sub>Master Degree Project. Programming Language: Maple 18. Company: USATU, 2018.</sub>
 9. :mortar_board: [Three-phase flow model in a porous medium. Analytical solutions of a system of nonlinear differential equations.](https://github.com/ResearchMachine/bachelor-diploma-project-exact-solution-3phase-buckley-leverett-flow/blob/main/README.md)  
