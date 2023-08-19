@@ -6,8 +6,6 @@
 Эмодзи https://gist.github.com/rxaviers/7360908
 -->
 
-<sup> Shit </sup>  
-<sub> Shit </sub>
 
 
 ## :computer: Main Projects 
