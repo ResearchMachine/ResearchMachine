@@ -37,7 +37,7 @@ upscaling of layered heterogeneous medium.](https://drive.google.com/file/d/1qET
 <sub>3. [Scopus Publication, 2019] [Numerical investigation of radial steady-state fluid flow model with Riesz potential.](https://drive.google.com/file/d/15wLtVAbkfqSllJ2EHqO6GHlX2_xYmJ2m/view) Greece, Rhodes.</sub>    
 <sub>4. [Article] [Buckley-Leverett flow on limited-scale fractal curves.](https://drive.google.com/file/d/1hLrADL_Dlk3CTJo4hXmmZqamXgYGGhHA/view)</sub>    
 <sub>5. [Conference Report, 2019] [The 12th All-Russian Congress on Fundamental Problems of Theoretical and Applied Mechanics](https://www.imsp.ru/en/node/377), Уфа.</sub>    
-<sub>6. [Conference Report, 2018] [Конференция актуальные проблемы приклад. математ.](https://elibrary.ru/item.asp?id=36308015), Нальчик–Эльбрус.</sub>    
+<sub>6. [Conference Report, 2018] [Конференция актуальные проблемы приклад. математ.](http://niipma.ru/wp-content/uploads/2019/03/Programma-konferentsii-1.pdf), Нальчик–Эльбрус.</sub>    
 <sub>7. [Conference Report, 2018] [Международная науч. конференция: «Нигматуллинские чтения»](https://www.elibrary.ru/item.asp?id=36770999), Казань.</sub>    
 <sub>8. [Conference Report, 2017] [International Conference on Mathematical Modelling in Applied Sciences.](https://icmmas.alpha-publishing.net/files/Abstract-Book.pdf), Saint Peter., Polytech., [PDF](https://drive.google.com/file/d/10TF3ykGnCAFmkqVJBLMwIU0wyTNL3nGA/view). </sub>    
 <sub>9. [Conference Report, 2017][ Конференция многофазные системы: модели, эксперимент, приложения.](https://www.elibrary.ru/item.asp?id=30054752) Уфа.</sub> 
