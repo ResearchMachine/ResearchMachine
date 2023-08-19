@@ -19,23 +19,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+
 ## :computer: Main Projects 
-1. :rocket: First Project  
+1. :rocket: [commercial-project-ml-mvp-insight-in-real-estate-moscow](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow), 2023
 <sub>About info.</sub>
-2. :briefcase: GPN Second Project :  
+2. :briefcase: [commercial-project-hydrodynamic-in-predictive-complex](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex), 2022
 <sub>About info.</sub>
-3. Project  
+3. [commercial-project-parcing-of-predictive-complex](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex), 2021
 <sub>About info.</sub>
-4. Project   
+4. [commercial-project-small-oil-data-analysis](https://github.com/ResearchMachine/commercial-project-small-oil-data-analysis), 2020
 <sub>About info.</sub>
-5. Project  
+5. [work-project-fractal-derivative-compare-power-law-buckley-leverett-flow](https://github.com/ResearchMachine/work-project-fractal-derivative-compare-power-law-buckley-leverett-flow), 2020
 <sub>About info.</sub>
-6. Project  
+6. [work-project-radial-fractial-derivative-numerical-scheme](https://github.com/ResearchMachine/work-project-radial-fractial-derivative-numerical-scheme), 2019
 <sub>About info.</sub>
-7. Project  
+7. [work-project-fractal-property-identification](https://github.com/ResearchMachine/work-project-fractal-property-identification), 2018
 <sub>About info.</sub>
 8. :mortar_board: [Modeling of Undeground Flow in Fractal Media.](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling)  
-<sub>Master Degree Project. Programming Language: Maple 18. Company: USATU, 2016.</sub>
+<sub>Master Degree Project. Programming Language: Maple 18. Company: USATU, 2018.</sub>
 9. :mortar_board: [Three-phase flow model in a porous medium. Analytical solutions of a system of nonlinear differential equations.](https://github.com/ResearchMachine/bachelor-diploma-project-exact-solution-3phase-buckley-leverett-flow/blob/main/README.md)  
 <sub>Bachelor Degree Project. Programming Language: Maple 18. Company: USATU, 2016.</sub>
 
