@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 4. :mortar_board: Master
 5. :mortar_board: [Three-phase flow model in a porous medium. Analytical solutions of a system of nonlinear differential equations.](https://github.com/ResearchMachine/bachelor-diploma-project-exact-solution-3phase-buckley-leverett-flow/blob/main/README.md) Bachelor Degree Project. Programming Language: Maple 18. Company: USATU, 2016.
 
-<sup><sub>:mortar_board: education :briefcase: work :rocket: start-up </sub></sup>
+<sub>:mortar_board: education :briefcase: work :rocket: start-up </sub>
 
 ## ✍️ Publications 
 1. 2021
