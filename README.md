@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 
 <sup><sub>:mortar_board: work :briefcase: education :rocket: start-up</sub></sup>
 
+## Publications ✍️
+1. 2021
