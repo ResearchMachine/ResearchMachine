@@ -20,14 +20,22 @@ Here are some ideas to get you started:
 -->
 
 ## :computer: Main Projects 
-1. :rocket: First Project 
-2. :briefcase: GPN Second Project :
+1. :rocket: First Project  
+<sub>About info.</sub>
+2. :briefcase: GPN Second Project :  
+<sub>About info.</sub>
 3. Third
+<sub>About info.</sub>
 4. :mortar_board: [Modeling of Undeground Flow in Fractal Media.](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling)  
 <sub>Master Degree Project. Programming Language: Maple 18. Company: USATU, 2016.</sub>
 6. :mortar_board: [Three-phase flow model in a porous medium. Analytical solutions of a system of nonlinear differential equations.](https://github.com/ResearchMachine/bachelor-diploma-project-exact-solution-3phase-buckley-leverett-flow/blob/main/README.md)  
 <sub>Bachelor Degree Project. Programming Language: Maple 18. Company: USATU, 2016.</sub>
-
+7. Project  
+<sub>About info.</sub>
+8. Project  
+<sub>About info.</sub>
+9. Project  
+<sub>About info.</sub>
 
 <p align="right"><sub>:rocket: start-up :mortar_board: academic :briefcase: work </sub> </p>
 
