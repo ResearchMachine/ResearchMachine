@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <sub>Bachelor Degree Project. Programming Language: Maple 18. Company: USATU, 2016.</sub>
 
 
-<sub>:mortar_board: education :briefcase: work :rocket: start-up </sub>
+<p align="right"><sub>:mortar_board: education :briefcase: work :rocket: start-up </sub> </p>
 
 ## ✍️ Publications 
 1. 2021
