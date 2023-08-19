@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 4. :mortar_board: Master
 5. :mortar_board: Bachelor
 
-<sup><sub>:mortar_board: work :briefcase: education :rocket: start-up</sub></sup>
+<sup><sub>:mortar_board: education :briefcase: work :rocket: start-up </sub></sup>
 
 ## ✍️ Publications 
 1. 2021
