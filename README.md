@@ -31,7 +31,7 @@
 <p align="right"><sub>:rocket: start-up :mortar_board: academic :briefcase: work </sub> </p>
 
 ## ✍️ Publications 
-1. [Article, Scopus, 2021] [Production forecast method based on statistical analysis of a small sample of production data for an unconventional formation.](https://drive.google.com/file/d/1qE-9qQnkZE5XCGLoLYbKlHNVxqDihmjX/view)  
+<sub>1. [Article, Scopus, 2021] [Production forecast method based on statistical analysis of a small sample of production data for an unconventional formation.](https://drive.google.com/file/d/1qE-9qQnkZE5XCGLoLYbKlHNVxqDihmjX/view)  </sub>  
 2. [Article, Scopus, 2020] [Идентификация фрактальных свойств и апскейлинг параметров слоисто-неоднородного пласта.](https://drive.google.com/file/d/1qETB0hnixHej1ArClK5GxOi7HWesQq1Y/view)  
 3. [Scopus Publication, 2019] [Numerical investigation of radial steady-state fluid flow model with Riesz potential.](https://drive.google.com/file/d/15wLtVAbkfqSllJ2EHqO6GHlX2_xYmJ2m/view) Greece, Rhodes.  
 4. [Article] [Buckley-Leverett flow on limited-scale fractal curves.](https://drive.google.com/file/d/1hLrADL_Dlk3CTJo4hXmmZqamXgYGGhHA/view)  
