@@ -3,7 +3,9 @@
 👯 I’m looking to collaborate on Data Science project.
 
 <!--
-**ResearchMachine/ResearchMachine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Эмодзи https://gist.github.com/rxaviers/7360908
+:dollar:
+:briefcase:
 
 Here are some ideas to get you started:
 
@@ -16,3 +18,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Main Projects :computer:
+1. :rocket: First Project 
+2. :briefcase: GPN Second Project :
+3. Third
+4. :mortar_board: Master
+5. :mortar_board: Bachelor
+
+<sup><sub>:mortar_board: work :briefcase: education :rocket: start-up</sub></sup>
+
