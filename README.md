@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Main Projects :computer:
+## :computer: Main Projects 
 1. :rocket: First Project 
 2. :briefcase: GPN Second Project :
 3. Third
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 <sup><sub>:mortar_board: work :briefcase: education :rocket: start-up</sub></sup>
 
-## Publications ✍️
+## ✍️ Publications 
 1. 2021
