@@ -12,7 +12,7 @@
 1. :rocket: [commercial-project-ml-mvp-insight-in-real-estate-moscow](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow)  
 <sub>Commercial ML MVP project. Programming Language: Python 3. Company: REVIZOR LLC, 2023.</sub>
 2. :briefcase: [commercial-project-hydrodynamic-in-predictive-complex](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex)  
-<sub>Commercial project. Programming Language: Python 3. Company: Gazpromneft Technology Partnerships LLC, 2022.</sub>
+<sub>Commercial project. Programming Language: Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re). Company: Gazpromneft Technology Partnerships LLC, 2022.</sub>
 3. :briefcase: [commercial-project-parcing-of-predictive-complex](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex)  
 <sub>Commercial project. Programming Language: VBA. Company: Gazpromneft Technology Partnerships LLC, 2021.</sub>
 4. :briefcase: [commercial-project-small-oil-data-analysis](https://github.com/ResearchMachine/commercial-project-small-oil-data-analysis)  
