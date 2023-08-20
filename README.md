@@ -12,11 +12,11 @@
 1. :rocket::star: [commercial-project-ml-mvp-insight-in-real-estate-moscow](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow)  
 <sub>Commercial ML MVP project. Programming Language: Python 3. Company: REVIZOR LLC, 2023.</sub>
 2. :briefcase::star: [commercial-project-hydrodynamic-in-predictive-complex](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex)  
-<sub>Commercial project. Programming Language: Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re). Company: Gazpromneft Technology Partnerships LLC, 2022.</sub>
+<sub>Individual commercial project. Programming Language: Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re). Company: Gazpromneft Technology Partnerships LLC, 2022.</sub>
 3. :briefcase: [commercial-project-parcing-of-predictive-complex](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex)  
-<sub>Commercial project. Programming Language: VBA. Company: Gazpromneft Technology Partnerships LLC, 2021.</sub>
+<sub>Individual commercial project. Programming Language: VBA. Company: Gazpromneft Technology Partnerships LLC, 2021.</sub>
 4. :briefcase::star: [commercial-project-small-oil-data-analysis](https://github.com/ResearchMachine/commercial-project-small-oil-data-analysis)  
-<sub>Commercial project. Programming Language: Python 3. Company: Gazpromneft Technology Partnerships LLC, 2020.</sub>
+<sub>Individual commercial project. Programming Language: Python 3. Company: Gazpromneft Technology Partnerships LLC, 2020.</sub>
 5. :briefcase: :mortar_board: [work-project-fractal-derivative-compare-power-law-buckley-leverett-flow](https://github.com/ResearchMachine/work-project-fractal-derivative-compare-power-law-buckley-leverett-flow)  
 <sub>Work project. Programming Language: Python 3, Maple 18. Company: math. model. lab. GAMMETT, 2020.</sub>
 6. :briefcase: :mortar_board: [work-project-radial-fractial-derivative-numerical-scheme](https://github.com/ResearchMachine/work-project-radial-fractial-derivative-numerical-scheme)  
