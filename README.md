@@ -17,7 +17,7 @@
 <sub>Individual commercial project. Company: Gazpromneft Technology Partnerships LLC. Programming Language: VBA. </sub>
 4. :briefcase::star: [(2020) Recommendations for improving the oil production process based on natural data. Small data analysis.](https://github.com/ResearchMachine/commercial-project-small-oil-data-analysis)  
 <sub>Individual commercial project. Company: Gazpromneft Technology Partnerships LLC. Programming Language: Python 3 (sklearn, ipywidgets, statsmodels, pandas, matplotlib).</sub>
-5. :mortar_board: :briefcase: [(2020) Derivation and study of a new mathematical model of oil movement. Examining cases where a simpler model can be replaced.](https://github.com/ResearchMachine/work-project-fractal-derivative-compare-power-law-buckley-leverett-flow)  
+5. :mortar_board: :briefcase: [(2020) Derivation and study of a new mathematical model of oil movement. Examining cases where a simpler model can be used.](https://github.com/ResearchMachine/work-project-fractal-derivative-compare-power-law-buckley-leverett-flow)  
 <sub>Work project. Company: math. model. lab. GAMMETT. Programming Language: Python 3 (numpy, scipy), Maple 18.</sub>
 6. :briefcase: :mortar_board: [(2019) Accounting for the special properties of the reservoir during oil production. Dynamic model of physics with memory.](https://github.com/ResearchMachine/work-project-radial-fractial-derivative-numerical-scheme)  
 <sub>Work project. Company: math. model. lab. GAMMETT (RUS). Programming Language: Maple 18, Python 3. </sub>
