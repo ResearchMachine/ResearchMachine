@@ -9,19 +9,19 @@
 
 
 ## :computer: Main Projects 
-1. :rocket::star: [(2023) commercial-project-ml-mvp-insight-in-real-estate-moscow](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow)  
+1. :rocket::star: [(2023) Analytics of commercial real estate in Moscow. Search for insights of ML methods.](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow)  
 <sub>Commercial ML MVP project. Company: REVIZOR LLC (RUS). Programming Language: Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re).</sub>
-2. :briefcase::star: [(2022) commercial-project-hydrodynamic-in-predictive-complex](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex)  
+2. :briefcase::star: [(2022) Forecast of oil production of special group of wells, hydrodynamic simulator. Python, modeling, finite element method.](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex)  
 <sub>Individual commercial project. Company: Gazpromneft Technology Partnerships LLC (RUS). Programming Language: Python 3 (fipy, matplotlib, numpy).</sub>
-3. :briefcase: [(2021) commercial-project-parcing-of-predictive-complex](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex)  
+3. :briefcase: [(2021) Parsing a complex predictive model from an Excel spreadsheet in VBA code.](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex)  
 <sub>Individual commercial project. Company: Gazpromneft Technology Partnerships LLC. Programming Language: VBA. </sub>
-4. :briefcase::star: [(2020) commercial-project-small-oil-data-analysis](https://github.com/ResearchMachine/commercial-project-small-oil-data-analysis)  
+4. :briefcase::star: [(2020) Recommendations for improving the oil production process based on natural data. Small data analysis.](https://github.com/ResearchMachine/commercial-project-small-oil-data-analysis)  
 <sub>Individual commercial project. Company: Gazpromneft Technology Partnerships LLC. Programming Language: Python 3 (sklearn, ipywidgets, statsmodels, pandas, matplotlib).</sub>
-5. :mortar_board: :briefcase: [(2020) work-project-fractal-derivative-compare-power-law-buckley-leverett-flow](https://github.com/ResearchMachine/work-project-fractal-derivative-compare-power-law-buckley-leverett-flow)  
+5. :mortar_board: :briefcase: [(2020) Derivation and study of a new mathematical model of oil movement. Examining cases where a simpler model can be replaced.](https://github.com/ResearchMachine/work-project-fractal-derivative-compare-power-law-buckley-leverett-flow)  
 <sub>Work project. Company: math. model. lab. GAMMETT. Programming Language: Python 3 (numpy, scipy), Maple 18.</sub>
-6. :briefcase: :mortar_board: [(2019) work-project-radial-fractial-derivative-numerical-scheme](https://github.com/ResearchMachine/work-project-radial-fractial-derivative-numerical-scheme)  
+6. :briefcase: :mortar_board: [(2019) Accounting for the special properties of the reservoir during the movement of oil to the well. Dynamic model of physics with memory.](https://github.com/ResearchMachine/work-project-radial-fractial-derivative-numerical-scheme)  
 <sub>Work project. Company: math. model. lab. GAMMETT (RUS). Programming Language: Maple 18, Python 3. </sub>
-7. :briefcase::star: [(2018) work-project-fractal-property-identification](https://github.com/ResearchMachine/work-project-fractal-property-identification)  
+7. :briefcase::star: [(2018) Identification of specific properties of an oil reservoir. Definitions of hyperparameters of the hydrodynamic model taking into account the fractality of the solution of the problem in the variational formulation.](https://github.com/ResearchMachine/work-project-fractal-property-identification)  
 <sub>Work project. Company: math. model. lab. GAMMETT. Programming Language: Maple 18, Python 3. </sub>
 8. :mortar_board: [(2018) Mathematical Modeling of Undeground Flow in Fractal Porous Media.](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling)  
 <sub>Master Degree Project. Company: USATU (RUS). Programming Language: Maple 18. </sub>
