@@ -10,23 +10,23 @@
 
 ## :computer: Main Projects 
 1. :rocket::star: [commercial-project-ml-mvp-insight-in-real-estate-moscow](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow)  
-<sub>Commercial ML MVP project. Programming Language: Python 3. Company: REVIZOR LLC, 2023.</sub>
+<sub>Commercial ML MVP project. Company: REVIZOR LLC, 2023. Programming Language: Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re).</sub>
 2. :briefcase::star: [commercial-project-hydrodynamic-in-predictive-complex](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex)  
-<sub>Individual commercial project. Programming Language: Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re). Company: Gazpromneft Technology Partnerships LLC, 2022.</sub>
+<sub>Individual commercial project. Company: Gazpromneft Technology Partnerships LLC, 2022. Programming Language: Python 3.</sub>
 3. :briefcase: [commercial-project-parcing-of-predictive-complex](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex)  
-<sub>Individual commercial project. Programming Language: VBA. Company: Gazpromneft Technology Partnerships LLC, 2021.</sub>
+<sub>Individual commercial project. Company: Gazpromneft Technology Partnerships LLC, 2021. Programming Language: VBA. </sub>
 4. :briefcase::star: [commercial-project-small-oil-data-analysis](https://github.com/ResearchMachine/commercial-project-small-oil-data-analysis)  
-<sub>Individual commercial project. Programming Language: Python 3. Company: Gazpromneft Technology Partnerships LLC, 2020.</sub>
+<sub>Individual commercial project. Company: Gazpromneft Technology Partnerships LLC, 2020. Programming Language: Python 3.</sub>
 5. :briefcase: :mortar_board: [work-project-fractal-derivative-compare-power-law-buckley-leverett-flow](https://github.com/ResearchMachine/work-project-fractal-derivative-compare-power-law-buckley-leverett-flow)  
-<sub>Work project. Programming Language: Python 3, Maple 18. Company: math. model. lab. GAMMETT, 2020.</sub>
+<sub>Work project. Company: math. model. lab. GAMMETT, 2020. Programming Language: Python 3 (numpy, scipy), Maple 18.</sub>
 6. :briefcase: :mortar_board: [work-project-radial-fractial-derivative-numerical-scheme](https://github.com/ResearchMachine/work-project-radial-fractial-derivative-numerical-scheme)  
-<sub>Work project. Programming Language: Maple 18, Python 3. Company: math. model. lab. GAMMETT, 2019.</sub>
+<sub>Work project. Company: math. model. lab. GAMMETT, 2019. Programming Language: Maple 18, Python 3. </sub>
 7. :briefcase::star: [work-project-fractal-property-identification](https://github.com/ResearchMachine/work-project-fractal-property-identification)  
-<sub>Work project. Programming Language: Maple 18, Python 3. Company: math. model. lab. GAMMETT, 2018.</sub>
+<sub>Work project. Company: math. model. lab. GAMMETT, 2018. Programming Language: Maple 18, Python 3. </sub>
 8. :mortar_board: [Modeling of Undeground Flow in Fractal Media.](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling)  
-<sub>Master Degree Project. Programming Language: Maple 18. Company: USATU, 2018.</sub>
+<sub>Master Degree Project. Company: USATU, 2018. Programming Language: Maple 18. </sub>
 9. :mortar_board: [Three-phase flow model in a porous medium. Solutions of a system of nonlinear partial differential equations.](https://github.com/ResearchMachine/bachelor-diploma-project-exact-solution-3phase-buckley-leverett-flow/blob/main/README.md)  
-<sub>Bachelor Degree Project. Programming Language: Maple 18. Company: USATU, 2016.</sub>
+<sub>Bachelor Degree Project. Company: USATU, 2016. Programming Language: Maple 18. </sub>
 
 <p align="right"><sub>:rocket: start-up :mortar_board: academic :briefcase: work :star: favorite</sub> </p>
 
