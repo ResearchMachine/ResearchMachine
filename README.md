@@ -19,7 +19,7 @@
 <sub>Work project. Company: math. model. lab. GAMMETT. Programming Language: Python 3 (numpy, scipy), Maple 18.</sub>
 6. :briefcase: :mortar_board: [(2019) Dynamic Model of Physics with Memory. Accounting for Special Properties of Reservoir During Oil Production.](https://github.com/ResearchMachine/work-project-radial-fractial-derivative-numerical-scheme)  
 <sub>Work project. Company: math. model. lab. GAMMETT (RUS). Programming Language: Maple 18, Python 3. </sub>
-7. :briefcase::star: [(2018) Identification of Fractal Properties of Oil Reservoir. Definitions of Hyperparameters of Hydrodynamic Model Optimization Problem.](https://github.com/ResearchMachine/work-project-fractal-property-identification)  
+7. :briefcase::star: [(2018) Identification of Fractal Properties of Oil Reservoir. Hyperparameters of Hydrodynamic Model Optimization Problem.](https://github.com/ResearchMachine/work-project-fractal-property-identification)  
 <sub>Work project. Company: math. model. lab. GAMMETT. Programming Language: Maple 18, Python 3. </sub>
 8. :mortar_board: [(2018) Mathematical Modeling of Undeground Flow in Fractal Porous Media.](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling)  
 <sub>Master Degree Project. Company: USATU (RUS). Programming Language: Maple 18. </sub>
