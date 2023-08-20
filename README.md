@@ -28,7 +28,7 @@
 9. :mortar_board: [(2016) Three-phase flow model in a porous medium. Solutions of a system of nonlinear partial differential equations.](https://github.com/ResearchMachine/bachelor-diploma-project-exact-solution-3phase-buckley-leverett-flow/blob/main/README.md)  
 <sub>Bachelor Degree Project. Company: USATU, 2016. Programming Language: Maple 18. </sub>
 
-<p align="right"><sub>:rocket: start-up :mortar_board: academic :briefcase: work :star: favorite</sub> </p>
+<p align="right"><sub>:star: favorite :rocket: start-up :mortar_board: academic :briefcase: work</sub> </p>
 
 ## ✍️ Publications 
 <sub>1. [Article, Scopus, 2021] [Production forecast method based on statistical analysis of a small sample of production data for an unconventional formation.](https://drive.google.com/file/d/1qE-9qQnkZE5XCGLoLYbKlHNVxqDihmjX/view)  </sub>  
