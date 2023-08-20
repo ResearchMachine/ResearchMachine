@@ -25,7 +25,7 @@
 <sub>Work project. Company: math. model. lab. GAMMETT, 2018. Programming Language: Maple 18, Python 3. </sub>
 8. :mortar_board: [Modeling of Undeground Flow in Fractal Media.](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling)  
 <sub>Master Degree Project. Company: USATU, 2018. Programming Language: Maple 18. </sub>
-9. :mortar_board: [Three-phase flow model in a porous medium. Solutions of a system of nonlinear partial differential equations.](https://github.com/ResearchMachine/bachelor-diploma-project-exact-solution-3phase-buckley-leverett-flow/blob/main/README.md)  
+9. :mortar_board: [(2016) Three-phase flow model in a porous medium. Solutions of a system of nonlinear partial differential equations.](https://github.com/ResearchMachine/bachelor-diploma-project-exact-solution-3phase-buckley-leverett-flow/blob/main/README.md)  
 <sub>Bachelor Degree Project. Company: USATU, 2016. Programming Language: Maple 18. </sub>
 
 <p align="right"><sub>:rocket: start-up :mortar_board: academic :briefcase: work :star: favorite</sub> </p>
