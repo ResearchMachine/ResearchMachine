@@ -12,7 +12,7 @@
 1. :rocket::star: [(2023) commercial-project-ml-mvp-insight-in-real-estate-moscow](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow)  
 <sub>Commercial ML MVP project. Company: REVIZOR LLC (Russia). Programming Language: Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re).</sub>
 2. :briefcase::star: [(2022) commercial-project-hydrodynamic-in-predictive-complex](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex)  
-<sub>Individual commercial project. Company: Gazpromneft Technology Partnerships LLC (Russia). Programming Language: Python 3.</sub>
+<sub>Individual commercial project. Company: Gazpromneft Technology Partnerships LLC (Russia). Programming Language: Python 3 (fipy, matplotlib, numpy).</sub>
 3. :briefcase: [(2021) commercial-project-parcing-of-predictive-complex](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex)  
 <sub>Individual commercial project. Company: Gazpromneft Technology Partnerships LLC. Programming Language: VBA. </sub>
 4. :briefcase::star: [(2020) commercial-project-small-oil-data-analysis](https://github.com/ResearchMachine/commercial-project-small-oil-data-analysis)  
