@@ -8,13 +8,13 @@
 
 ## :computer: Main Projects 
 1. :rocket::star: [(2023) Analytics of Commercial Real Estate in Moscow. Search for Insights of ML Methods.](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow)  
-<sub>Commercial ML MVP project. Company: REVIZOR LLC (RUS). Programming Language: Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re).</sub>
+<sub>Commercial Data Science Project. Company: REVIZOR LLC (RUS). Programming Language: Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re).</sub>
 2. :briefcase::star: [(2022) Hydrodynamic Simulator Development. Forecast of Oil Production of special Group of Wells, Finite Element Method.](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex)  
-<sub>Individual commercial project. Company: Gazpromneft Technology Partnerships LLC (RUS). Programming Language: Python 3 (fipy, matplotlib, numpy).</sub>
+<sub>Commercial project. Company: Gazpromneft Technology Partnerships LLC (RUS). Programming Language: Python 3 (fipy, matplotlib, numpy).</sub>
 3. :briefcase: [(2021) Complex Predictive Model Transfer. VBA Auto-Transfer Formula Hierarchy from Excel Spreadsheet to VBA Code.](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex)  
-<sub>Individual commercial project. Company: Gazpromneft Technology Partnerships LLC. Programming Language: VBA. </sub>
+<sub>Commercial project. Company: Gazpromneft Technology Partnerships LLC. Programming Language: VBA. </sub>
 4. :briefcase::star: [(2020) Statistical Data Analysis for Recommendations of Improving Oil Production Process. Small Size Data Analysis.](https://github.com/ResearchMachine/commercial-project-small-oil-data-analysis)  
-<sub>Individual commercial project. Company: Gazpromneft Technology Partnerships LLC. Programming Language: Python 3 (sklearn, ipywidgets, statsmodels, pandas, matplotlib).</sub>
+<sub>Commercial Data Science Project. Company: Gazpromneft Technology Partnerships LLC. Programming Language: Python 3 (sklearn, ipywidgets, statsmodels, pandas, matplotlib).</sub>
 5. :mortar_board: :briefcase: [(2020) Derivation and Study of New Mathematical Model of Oil Movement. Examining Cases Where Simpler Model Can Be Used.](https://github.com/ResearchMachine/work-project-fractal-derivative-compare-power-law-buckley-leverett-flow)  
 <sub>Work project. Company: math. model. lab. GAMMETT. Programming Language: Python 3 (numpy, scipy), Maple 18.</sub>
 6. :briefcase: :mortar_board: [(2019) Diffusion Model with Memory. Accounting for Special Properties of Reservoir During Oil Production.](https://github.com/ResearchMachine/work-project-radial-fractial-derivative-numerical-scheme)  
