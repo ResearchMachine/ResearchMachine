@@ -11,7 +11,7 @@
 <sub>Commercial Data Science Project. Company: REVIZOR LLC (RUS). Programming Language: Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re).</sub>
 2. :briefcase::star: [(2022) Forecast of Oil Production of Special Group of Wells. Hydrodynamic Simulator Development, Finite Element Method.](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex)  
 <sub>Commercial project. Company: Gazpromneft Technology Partnerships LLC (RUS). Programming Language: Python 3 (fipy, matplotlib, numpy).</sub>
-3. :briefcase: [(2021) Oil Production Predictive Model Transfer. VBA Parser from Excel Spreadsheet to VBA Code. (https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex)  
+3. :briefcase: [(2021) Oil Production Predictive Model Transfer. VBA Parser from Excel Spreadsheet to VBA Code.](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex)  
 <sub>Commercial project. Company: Gazpromneft Technology Partnerships LLC. Programming Language: VBA. </sub>
 4. :briefcase::star: [(2020) Recommendations of Improving Oil Production Process. Small Size Data Analysis.](https://github.com/ResearchMachine/commercial-project-small-oil-data-analysis)  
 <sub>Commercial Data Science Project. Company: Gazpromneft Technology Partnerships LLC. Programming Language: Python 3 (sklearn, ipywidgets, statsmodels, pandas, matplotlib).</sub>
