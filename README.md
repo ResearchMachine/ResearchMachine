@@ -17,7 +17,7 @@
 <sub>Commercial Data Science Project. Company: Gazpromneft Technology Partnerships LLC. Programming Language: Python 3 (sklearn, ipywidgets, statsmodels, pandas, matplotlib).</sub>
 5. :mortar_board: :briefcase: [(2020) Derivation and Study of New Mathematical Model of Oil Movement. Examining Cases Where Simpler Model Can Be Used.](https://github.com/ResearchMachine/work-project-fractal-derivative-compare-power-law-buckley-leverett-flow)  
 <sub>Work project. Company: math. model. lab. GAMMETT. Programming Language: Python 3 (numpy, scipy), Maple 18.</sub>
-6. :briefcase: :mortar_board: [(2019) Diffusion Model with Memory. Accounting for Special Properties of Reservoir During Oil Production.](https://github.com/ResearchMachine/work-project-radial-fractial-derivative-numerical-scheme)  
+6. :briefcase: :mortar_board: [(2019) Accounting for Special Properties of Reservoir During Oil Production. Diffusion Model with Memory. ](https://github.com/ResearchMachine/work-project-radial-fractial-derivative-numerical-scheme)  
 <sub>Work project. Company: math. model. lab. GAMMETT (RUS). Programming Language: Maple 18, Python 3. </sub>
 7. :briefcase::star: [(2018) Identification of Fractal Properties of Oil Reservoir. Hyperparameters for Model Optimization of Diffusion Equation Problem. Dimension reduction (Grid Upscaling).](https://github.com/ResearchMachine/work-project-fractal-property-identification)  
 <sub>Work project. Company: math. model. lab. GAMMETT. Programming Language: Maple 18, Python 3. </sub>
