@@ -7,7 +7,7 @@
 -->
 
 ## :computer: Main Projects 
-1. :rocket::star: [(2023) MVP of Search for Insights of Commercial Real Estate in Moscow by ML Methods.](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow)  
+1. :briefcase::star: [(2023) MVP of Search for Insights of Commercial Real Estate in Moscow by ML Methods.](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow)  
 <sub>Commercial Data Science Project. Company: REVIZOR LLC (RUS). Programming Language: Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re).</sub>
 2. :briefcase::star: [(2022) Forecast of Oil Production of Special Group of Wells. Hydrodynamic Simulator Development, Finite Element Method.](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex)  
 <sub>Commercial project. Company: Gazpromneft Technology Partnerships LLC (RUS). Programming Language: Python 3 (fipy, matplotlib, numpy).</sub>
@@ -26,7 +26,7 @@
 9. :mortar_board: [(2016) Three-phase Undeground Flow Model in Porous Media. Solutions of System of Nonlinear Differential Equations.](https://github.com/ResearchMachine/bachelor-diploma-project-exact-solution-3phase-buckley-leverett-flow/blob/main/README.md)  
 <sub>Bachelor Degree Project. Company: USATU. Programming Language: Maple 18. </sub>
 
-<p align="right"><sub>:star: favorite :rocket: start-up :mortar_board: academic :briefcase: work</sub> </p>
+<p align="right"><sub>:star: favorite :mortar_board: academic :briefcase: work</sub> </p>
 
 ## ✍️ Publications 
 <sub>1. [Article, Scopus, 2021] [Production forecast method based on statistical analysis of a small sample of production data for an unconventional formation.](https://drive.google.com/file/d/1qE-9qQnkZE5XCGLoLYbKlHNVxqDihmjX/view)  </sub>  
