@@ -1,6 +1,6 @@
 <h1 align="center">Ildar Abdulin</h1>
 
-👯 I'm open for new job opportunities. Also I familiar with C/C#/C++, Matlab, R, Bash, SQL.
+👯 I'm open for new job opportunities. CV: https://researchmachine.github.io/
 
 <!--
 Эмодзи https://gist.github.com/rxaviers/7360908
