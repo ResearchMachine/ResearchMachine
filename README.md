@@ -10,19 +10,19 @@
 1. :briefcase::star: [(2023) MVP of Search for Insights of Commercial Real Estate in Moscow by ML Methods.](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow)  
 <sub>Commercial Data Science Project. Company: REVIZOR LLC (RUS). Programming Language: Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re).</sub>
 2. :briefcase::star: [(2022) Forecast of Oil Production of Special Group of Wells. Hydrodynamic Simulator Development, Finite Element Method.](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex)  
-<sub>Commercial project. Company: Gazpromneft Technology Partnerships LLC (RUS). Programming Language: Python 3 (fipy, matplotlib, numpy).</sub>
+<sub>Commercial Mathematical Modeling Project. Company: Gazpromneft Technology Partnerships LLC (RUS). Programming Language: Python 3 (fipy, matplotlib, numpy).</sub>
 3. :briefcase: [(2021) Oil Production Predictive Model Transfer. VBA Parser from Excel Spreadsheet to VBA Code.](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex)  
-<sub>Commercial project. Company: Gazpromneft Technology Partnerships LLC. Programming Language: VBA. </sub>
+<sub>Commercial Project. Company: Gazpromneft Technology Partnerships LLC. Programming Language: VBA. </sub>
 4. :briefcase::star: [(2020) Recommendations of Improving Oil Production Process. Small Size Data Analysis.](https://github.com/ResearchMachine/commercial-project-small-oil-data-analysis)  
 <sub>Commercial Data Science Project. Company: Gazpromneft Technology Partnerships LLC. Programming Language: Python 3 (sklearn, ipywidgets, statsmodels, pandas, matplotlib).</sub>
 5. :mortar_board: :briefcase: [(2020) Derivation and Study of New Mathematical Model of Oil Movement. Examining Cases Where Simpler Model Can Be Used.](https://github.com/ResearchMachine/work-project-fractal-derivative-compare-power-law-buckley-leverett-flow)  
-<sub>Work project. Company: math. model. lab. GAMMETT. Programming Language: Python 3 (numpy, scipy), Maple 18.</sub>
+<sub>Work Project. Company: math. model. lab. GAMMETT. Programming Language: Python 3 (numpy, scipy), Maple 18.</sub>
 6. :briefcase: :mortar_board: [(2019) Accounting for Special Properties of Reservoir During Oil Production. Diffusion Model with Memory. ](https://github.com/ResearchMachine/work-project-radial-fractial-derivative-numerical-scheme)  
-<sub>Work project. Company: math. model. lab. GAMMETT (RUS). Programming Language: Maple 18, Python 3. </sub>
+<sub>Work Project. Company: math. model. lab. GAMMETT. Programming Language: Maple 18, Python 3. </sub>
 7. :briefcase::star: [(2018) Identification of Fractal Properties of Oil Reservoir. Hyperparameters for Model Optimization of Diffusion Equation Problem. Dimension reduction (Grid Upscaling).](https://github.com/ResearchMachine/work-project-fractal-property-identification)  
-<sub>Work project. Company: math. model. lab. GAMMETT. Programming Language: Maple 18, Python 3. </sub>
+<sub>Work Project. Company: math. model. lab. GAMMETT. Programming Language: Maple 18, Python 3. </sub>
 8. :mortar_board: [(2018) Undeground Flow in Fractal Porous Media. Mathematical Modeling.](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling)  
-<sub>Master Degree Project. Company: USATU (RUS). Programming Language: Maple 18. </sub>
+<sub>Master Degree Project. Company: USATU. Programming Language: Maple 18. </sub>
 9. :mortar_board: [(2016) Three-phase Undeground Flow Model in Porous Media. Solutions of System of Nonlinear Differential Equations.](https://github.com/ResearchMachine/bachelor-diploma-project-exact-solution-3phase-buckley-leverett-flow/blob/main/README.md)  
 <sub>Bachelor Degree Project. Company: USATU. Programming Language: Maple 18. </sub>
 
