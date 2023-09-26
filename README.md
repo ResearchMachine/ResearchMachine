@@ -29,10 +29,10 @@
 <p align="right"><sub>:star: favorite :mortar_board: academic :briefcase: work</sub> </p>
 
 ## ✍️ Publications 
-<sub>1. [Article, Scopus, 2021] [Production forecast method based on statistical analysis of a small sample of production data for an unconventional formation.](https://drive.google.com/file/d/1qE-9qQnkZE5XCGLoLYbKlHNVxqDihmjX/view)  </sub>  
+<sub>1. [Article, Scopus, 2021] [Production forecast method based on statistical analysis of a small sample of production data for an unconventional formation.](https://onepetro.org/OIJ/article-abstract/2021/09/76/471866/Production-forecast-method-based-on-statistical?redirectedFrom=fulltext)  </sub>  
 <sub>2. [Article, Scopus, 2020] [Identification of fractal properties and parameters
-upscaling of layered heterogeneous medium.](https://drive.google.com/file/d/1qETB0hnixHej1ArClK5GxOi7HWesQq1Y/view)</sub>    
-<sub>3. [Scopus Publication, 2019] [Numerical investigation of radial steady-state fluid flow model with Riesz potential.](https://drive.google.com/file/d/15wLtVAbkfqSllJ2EHqO6GHlX2_xYmJ2m/view) Greece, Rhodes.</sub>    
+upscaling of layered heterogeneous medium.](https://onepetro.org/OIJ/article-abstract/2020/01/46/187383/Identification-of-fractal-properties-and?redirectedFrom=fulltext)</sub>    
+<sub>3. [Scopus Publication, 2019] [Numerical investigation of radial steady-state fluid flow model with Riesz potential.](https://www.researchgate.net/publication/347176340_Numerical_investigation_of_radial_steady-state_fluid_flow_model_with_Riesz_potential) Greece, Rhodes.</sub>    
 <sub>4. [Article] [Buckley-Leverett flow on limited-scale fractal curves.](https://drive.google.com/file/d/1hLrADL_Dlk3CTJo4hXmmZqamXgYGGhHA/view)</sub>    
 <sub>5. [Conference Report, 2019] [The 12th All-Russian Congress on Fundamental Problems of Theoretical and Applied Mechanics](https://www.imsp.ru/en/node/377), Уфа.</sub>    
 <sub>6. [Conference Report, 2018] [Конференция актуальные проблемы приклад. математ.](http://niipma.ru/wp-content/uploads/2019/03/Programma-konferentsii-1.pdf), Нальчик–Эльбрус.</sub>    
