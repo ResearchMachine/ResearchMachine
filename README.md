@@ -3,7 +3,7 @@
 **Brief:**
 * Msc of Applied Mathematics and Computer Science (Russia, 2018);  
 * 5 years professional experience in oil production modeling as a Research Engineer, Data Scientist, Applied Mathematician;  
-* Success conducting Data Science techniques and mathematical models to support business decision-making.  
+* Success conducting Data Science and Mathematical Mode techniquesls to support business decision-making.  
 
 
 **Topics:** FEA (Finite Element Analysis), Nonlinear PDEs (Partial Differential Equations), Fractals in Physics, Fractional Derivatives, Underground Fluid Flow Modeling (CFD), Statistical Analysis of Small Sample Size, Classical Machine Learning, Data Science, Python 3, Maple, Matlab, Numerical Methods, LaTeX, MVP Development.
