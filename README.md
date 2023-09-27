@@ -1,5 +1,9 @@
 <h1 align="center">Ildar Abdulin</h1>
 
+**About:**
+* Msc of Applied Mathematics and Computer Science;  
+* 5 years professional experience as a Research Engineer, Data Scientist, Applied Mathematician;  
+* Success conducting Data Science techniques and mathematical models to support business decision-making.  
 
 
 **Topics:** FEA (Finite Element Analysis), Nonlinear PDEs (Partial Differential Equations), Fractals in Physics, Fractional Derivatives, Underground Fluid Flow Modeling (CFD), Statistical Analysis of Small Sample Size, Classical Machine Learning, Data Science, Python 3, Maple, Matlab, Numerical Methods, LaTeX, MVP Development.
