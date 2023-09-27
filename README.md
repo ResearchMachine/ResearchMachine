@@ -1,10 +1,10 @@
 <h1 align="center">Ildar Abdulin</h1>
 
-I am currently open to new job opportunities as a Research Engineer, Data Scientist, or Quantitative Researcher, and I am open to remote and hybrid (EU and Thailand) positions.
 
 
 **Topics:** FEA (Finite Element Analysis), Nonlinear PDEs (Partial Differential Equations), Fractals in Physics, Fractional Derivatives, Underground Fluid Flow Modeling (CFD), Statistical Analysis of Small Sample Size, Classical Machine Learning, Data Science, Python 3, Maple, Matlab, Numerical Methods, LaTeX, MVP Development.
 
+I am currently open to new job opportunities as a Research Engineer, Data Scientist, or Quantitative Researcher, and I am open to remote and hybrid (EU and Thailand) positions.
 
 **CV:** https://researchmachine.github.io/
 
