@@ -1,7 +1,7 @@
 <h1 align="center">Ildar Abdulin</h1>
 
-**About:**
-* Msc of Applied Mathematics and Computer Science;  
+**Brief:**
+* Msc of Applied Mathematics and Computer Science (Russia, 2018);  
 * 5 years professional experience as a Research Engineer, Data Scientist, Applied Mathematician;  
 * Success conducting Data Science techniques and mathematical models to support business decision-making.  
 
