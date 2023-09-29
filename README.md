@@ -8,9 +8,7 @@
 
 **Topics:** FEA (Finite Element Analysis), Nonlinear PDEs (Partial Differential Equations), Fractals in Physics, Fractional Derivatives, Underground Fluid Flow Modeling (CFD), Statistical Analysis of Small Sample Size, Classical Machine Learning, Data Science, Python 3, Maple, Matlab, Numerical Methods, LaTeX, MVP Development.
 
-I am currently open to new job opportunities as a Research Engineer, Data Scientist, or Quantitative Researcher, and I am open to remote and hybrid (Bangkok and relocation to EU) positions.
-
-**CV:** https://researchmachine.github.io/
+I am currently open to new job opportunities as a Research Engineer, Data Scientist, or Quantitative Researcher, and I am open to remote and hybrid in Bangkok (or relocation to Netherlands, Germany, Portugal, Spain) positions.
 
 
 ## ✍️ Publications 
@@ -53,5 +51,6 @@ upscaling of layered heterogeneous medium](https://onepetro.org/OIJ/article-abst
 
 <p align="right"><sub>:star: favorite :mortar_board: academic :briefcase: work</sub> </p>
 
-
+## Additional
+**CV:** https://researchmachine.github.io/
 
