@@ -8,8 +8,6 @@
 
 **Topics:** FEA (Finite Element Analysis), Nonlinear PDEs (Partial Differential Equations), Fractals in Physics, Fractional Derivatives, Underground Fluid Flow Modeling (CFD), Statistical Analysis of Small Sample Size, Classical Machine Learning, Data Science, Python 3, Maple, Matlab, Numerical Methods, LaTeX, MVP Development.
 
-I am currently open to new job opportunities as a Research Engineer, Data Scientist, or Quantitative Researcher, and I am open to remote and hybrid in Bangkok (or relocation to Netherlands, Germany, Portugal, Spain) positions.
-
 
 ## ✍️ Publications 
 <sub>1. [Research Article, Scopus, 2021] [Production forecast method based on statistical analysis of a small sample of production data for an unconventional formation](https://onepetro.org/OIJ/article-abstract/2021/09/76/471866/Production-forecast-method-based-on-statistical?redirectedFrom=fulltext)  </sub>  
@@ -52,5 +50,9 @@ upscaling of layered heterogeneous medium](https://onepetro.org/OIJ/article-abst
 <p align="right"><sub>:star: favorite :mortar_board: academic :briefcase: work</sub> </p>
 
 ## Additional
-**CV:** https://researchmachine.github.io/
 
+
+I am currently open to new job opportunities as a Research Engineer, Data Scientist, or Quantitative Researcher, and I am open to remote and hybrid in Bangkok positions. Also I am ready for relocation to major cities in Spain Netherlands, Germany, Portugal, Spain.
+
+**CV:** https://researchmachine.github.io/  
+abdulin.ildar.ai@gmail.com
