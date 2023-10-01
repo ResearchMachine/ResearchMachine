@@ -52,7 +52,7 @@ upscaling of layered heterogeneous medium](https://onepetro.org/OIJ/article-abst
 ## Additional
 
 
-I am currently open to new job opportunities as a Research Engineer, Data Scientist, or Quantitative Researcher (remote and hybrid in Bangkok). Also I am ready for relocation to major cities in Netherlands, Germany, Portugal, Spain.
+I am currently open to new job opportunities as a Research Engineer, Data Scientist, or Quantitative Researcher (remote and hybrid in Bangkok). Also I am ready for relocation  in EU (preferably but not limited to major cities Netherlands, Portugal, Spain).
 
 **CV:** https://researchmachine.github.io/  
 **Email:** abdulin.ildar.ai@gmail.com  
