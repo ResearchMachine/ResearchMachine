@@ -6,7 +6,7 @@
 * Success conducting Data Science and Mathematical Models **forecast** techniques to support business decision-making.  
 
 
-**Topics:** Data Science, Classical Machine Learning, MVP Development, Statistical Analysis of Small Sample Size, Python 3, Matlab, Maple, Nonlinear PDEs (Partial Differential Equations), Numerical Methods, Underground Fluid Flow Modeling (CFD), Fractals in Physics, FEA (Finite Element Analysis), Heavy-Tail Distribution in Physics Modeling (Fractional Derivatives), LaTeX.
+**Topics:** Data Science, Classical Machine Learning, MVP Development, Statistical Analysis of Small Sample Size, Python 3, Matlab, Maple, Nonlinear PDEs (Partial Differential Equations), Numerical Methods, Underground Fluid Flow Modeling (CFD), Fractals in Physics Modeling, Heavy-Tail Distribution in Physics Modeling (Fractional Derivatives), LaTeX, FEA (Finite Element Analysis).
 
 
 ## ✍️ Publications 
