@@ -3,7 +3,7 @@
 **Brief:**
 * Msc of Applied Mathematics and Computer Science (Russia, [USATU](https://en.wikipedia.org/wiki/Ufa_State_Aviation_Technical_University), 2018);  
 * 5 years experience in oil production modeling as a Research Engineer, Data Scientist, Applied Mathematician;  
-* Success conducting Data Science and Mathematical Models **forecast** techniques to support business decision-making.  
+* Success conducting predictive modeling (Data Science, Physics Modeling) to support business decision-making.  
 
 
 **Topics:** Data Science, Classical Machine Learning, MVP Development, Statistical Analysis of Small Sample Size, Python 3, Matlab, Maple, Nonlinear PDEs (Partial Differential Equations), Numerical Methods, Underground Fluid Flow Modeling (CFD), Fractals in Physics Modeling, Heavy-Tail Distribution in Physics Modeling (Fractional Derivatives), LaTeX, FEA (Finite Element Analysis).
