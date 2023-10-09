@@ -1,5 +1,12 @@
 <h1 align="center">Ildar Abdulin</h1>
 
+**Interests:** 
+* Creation and implementation of machine learning algorithms and statistics;</li>
+* Research to optimization of the speed and accuracy of forecast models (time series, ML, partial differential equations);</li>
+* Search for insights and recommendations on technologies based on data analysis.</li>
+	
+
+
 **Brief:**
 * MSc of Applied Mathematics and Computer Science (Russia, [USATU](https://en.wikipedia.org/wiki/Ufa_State_Aviation_Technical_University), 2018);  
 * 5 years experience in oil production modeling as a Research Engineer, Data Scientist, Applied Mathematician;  
