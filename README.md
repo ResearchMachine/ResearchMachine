@@ -13,7 +13,7 @@
 * Success conducting predictive modeling techniques (Data Science, Physics Modeling) to support business decision-making.  
 
 
-**Topics:** Data Science, Classical Machine Learning, Monte Carlo Simulation, MVP Development, Statistical Analysis of Small Sample Size, Python 3 (BeautifulSoup, cloudscraper, difflib, fipy, ipywidgets, matplotlib, numpy, pandas, re, sklearn, statsmodels, xgboost), Matlab, Maple, Nonlinear PDEs (Partial Differential Equations), Numerical Methods, Underground Fluid Flow Modeling (CFD), Fractals and Heavy-Tail Distribution (Fractional Derivatives) in Physics Modeling, LaTeX, FEA (Finite Element Analysis).
+**Topics:** Data Science, Classical Machine Learning, Monte Carlo Simulation, MVP Development, Statistical Analysis of Small Sample Size, Python 3 (PEP 8, BeautifulSoup, cloudscraper, difflib, fipy, ipywidgets, matplotlib, numpy, pandas, re, sklearn, statsmodels, xgboost), Matlab, Maple, Nonlinear PDEs (Partial Differential Equations), Numerical Methods, Underground Fluid Flow Modeling (CFD), Fractals and Heavy-Tail Distribution (Fractional Derivatives) in Physics Modeling, LaTeX, FEA (Finite Element Analysis).
 
 
 ## ✍️ Publications 
