@@ -57,7 +57,7 @@ upscaling of layered heterogeneous medium](https://onepetro.org/OIJ/article-abst
 <p align="right"><sub>:star: favorite :mortar_board: academic :briefcase: work</sub> </p>
 
 ## Additional
-Hi! My name is Ildar, I am from St. Petersburg, Russia. I'm currently in Bangkok (GMT +7) and open to remote/hybrid job opportunities as a Research Engineer, Data Scientist, or Quantitative Researcher. Also I am ready for relocation.
+Hi! My name is Ildar [i:ldɑːr], I am from St. Petersburg, Russia. I'm currently in Bangkok (GMT +7) and open to remote/hybrid job opportunities as a Research Engineer, Data Scientist, or Quantitative Researcher. Also I am ready for relocation.
 
 Hobby: techno, coffee, gym, beer (Schneider Tap 5), travelling, movies. 
 
