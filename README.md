@@ -55,6 +55,7 @@ upscaling of layered heterogeneous medium](https://onepetro.org/OIJ/article-abst
 <sub>Bachelor Degree Project. Company: USATU. Programming Language: Maple 18 </sub>
 
 <p align="right"><sub>:star: favorite :mortar_board: academic :briefcase: work</sub> </p>
+<p align="right"><sub>All NDA data is hiddenk</sub> </p>
 
 ## Additional
 Hi! My name is Ildar [i:ldɑːr], I am from St. Petersburg, Russia. I'm currently in Bangkok (GMT +7) and open to remote/hybrid job opportunities as a Research Engineer, Data Scientist, or Quantitative Researcher. Also I am ready for relocation.
