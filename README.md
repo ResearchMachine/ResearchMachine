@@ -16,6 +16,8 @@
 **Topics:** Data Science, Classical Machine Learning, Monte Carlo Simulation, MVP Development, Statistical Analysis of Small Sample Size, Python 3 (PEP 8, BeautifulSoup, cloudscraper, difflib, fipy, ipywidgets, matplotlib, numpy, pandas, re, sklearn, statsmodels, xgboost), Matlab, Maple, Nonlinear PDEs (Partial Differential Equations), Numerical Methods, Underground Fluid Flow Modeling (CFD), Fractals and Heavy-Tail Distribution (Fractional Derivatives) in Physics Modeling, LaTeX, FEA (Finite Element Analysis).
 
 
+**Languages:** Russian: Native, English: Upper-Intermediate.
+
 ## ✍️ Publications 
 <sub>1. [Research Article, Scopus, 2021] [Production forecast method based on statistical analysis of a small sample of production data for an unconventional formation](https://onepetro.org/OIJ/article-abstract/2021/09/76/471866/Production-forecast-method-based-on-statistical?redirectedFrom=fulltext)  </sub>  
 <sub>2. [Research Article, Scopus, 2020] [Identification of fractal properties and parameters
