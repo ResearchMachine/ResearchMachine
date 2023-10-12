@@ -2,7 +2,7 @@
 
 **Interests:** 
 * Creation and implementation of machine learning algorithms and statistics;</li>
-* Research to optimization of the speed and accuracy of forecast models (time series, ML, partial differential equations);</li>
+* Research to optimization of the speed and accuracy of forecast models;</li>
 * Search for insights and recommendations on technologies based on data analysis.</li>
 	
 
