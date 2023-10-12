@@ -8,7 +8,7 @@
 
 
 **Brief:**
-* MSc of Applied Mathematics and Computer Science (Russia, [USATU](https://en.wikipedia.org/wiki/Ufa_State_Aviation_Technical_University), 2018);  
+* MSc of Applied Mathematics and Computer Science (Russia, 2018);  
 * 5 years experience in oil production modeling as a Research Engineer, Data Scientist, Applied Mathematician;  
 * Success conducting predictive modeling techniques (Data Science, Physics Modeling) to support business decision-making.  
 
