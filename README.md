@@ -8,8 +8,8 @@
 
 
 **Brief:**
-* MSc of Applied Mathematics and Computer Science (Russia, 2018);  
 * 5 years experience in oil production modeling as a Research Engineer, Data Scientist, Applied Mathematician;  
+* MSc of Applied Mathematics and Computer Science (Russia, 2018);  
 * Success conducting predictive modeling techniques (Data Science, Physics Modeling) to support business decision-making.  
 
 
