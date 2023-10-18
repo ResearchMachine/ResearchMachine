@@ -1,4 +1,4 @@
-<h1 align="center">Ildar Abdulin</h1>
+<h1 align="center">Ildar</h1>
 
 **Interests:** 
 * Creation and implementation of machine learning algorithms and statistics;</li>
