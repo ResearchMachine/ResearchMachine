@@ -12,6 +12,7 @@
 * MSc of Applied Mathematics and Computer Science (Russia, 2018);  
 * Success conducting predictive modeling techniques (Data Science, Physics Modeling) to support business decision-making.  
 
+**CV:** https://researchmachine.github.io/ 
 
 **Topics:** Data Science, Classical Machine Learning, Monte Carlo Simulation, MVP Development, Statistical Analysis of Small Sample Size, Nonlinear PDEs (Partial Differential Equations), Matlab, Python 3 (PEP 8, BeautifulSoup, cloudscraper, difflib, fipy, ipywidgets, matplotlib, numpy, pandas, re, sklearn, statsmodels, xgboost), Maple, Numerical Methods, Underground Fluid Flow Modeling (CFD), Fractals and Heavy-Tail Distribution (Fractional Derivatives) in Physics Modeling, LaTeX, FEA (Finite Element Analysis).
 
@@ -62,10 +63,10 @@ upscaling of layered heterogeneous medium](https://onepetro.org/OIJ/article-abst
 <p align="right"><sub>All NDA data is hidden</sub> </p>
 
 ## Additional
-Hi! My name is Ildar [i:ldɑːr], I am from St. Petersburg, Russia. I'm currently in Bangkok (GMT +7) and open to remote/hybrid job opportunities as a Research Engineer, Data Scientist, or Quantitative Researcher. Also I am ready for relocation.
+Hi! My name is Ildar [i:ldɑːr], I am from St. Petersburg, Russia. I'm currently in Bangkok (GMT +7) and open to remote job opportunities as a Research Engineer, Data Scientist, or Quantitative Researcher.
 
 Hobbys: gym, travelling, techno music. 
 
-**CV:** https://researchmachine.github.io/  
+
 **Email:** abdulin.ildar.ai@gmail.com  
 
