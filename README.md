@@ -38,7 +38,6 @@ upscaling of layered heterogeneous medium](https://onepetro.org/OIJ/article-abst
 -->
 
 ## :computer: Projects 
-<p align="right"><sub>All NDA data is hidden</sub> </p>
 
 1. :briefcase::star: [(2023) MVP of Search for Insights of Commercial Real Estate in Moscow by ML Methods](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow)  
 <sub>Commercial Data Science Project. Company: REVIZOR LLC (RUS). Programming Language: Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re)</sub>
