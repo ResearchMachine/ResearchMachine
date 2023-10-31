@@ -62,10 +62,10 @@ upscaling of layered heterogeneous medium](https://onepetro.org/OIJ/article-abst
 <p align="right"><sub>All NDA data is hidden</sub> </p>
 
 ## Additional
-Hi! My name is Ildar [i:ldɑːr], I am from St. Petersburg, Russia. I'm currently in Bangkok (GMT +7) and open to remote job opportunities as a Research Engineer, Data Scientist, or Quantitative Researcher.
+I'm currently in Bangkok (GMT +7) and open to remote job opportunities as a Research Engineer, Data Scientist, or Quantitative Researcher.
 
 Hobbys: gym, travelling, techno music. 
 
 
 **Email:** abdulin.ildar.ai@gmail.com  
-
+**CV:** https://researchmachine.github.io/ 
