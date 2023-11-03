@@ -61,10 +61,9 @@ upscaling of layered heterogeneous medium](https://onepetro.org/OIJ/article-abst
 <p align="right"><sub>:star: favorite :mortar_board: academic :briefcase: work</sub> </p>
 <p align="right"><sub>All NDA data is hidden</sub> </p>
 
-## Additional
+## Contact
 I'm currently in Bangkok (GMT +7) and open to remote job opportunities as a Research Engineer, Data Scientist, or Quantitative Researcher.
 
-Hobbys: gym, travelling, techno music. 
 
 
 **Email:** abdulin.ildar.ai@gmail.com  
