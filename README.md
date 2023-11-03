@@ -1,16 +1,12 @@
 <h1 align="center">Ildar</h1>
 
 **Interests:** 
-* Creation and implementation of machine learning algorithms and statistics;</li>
-* Research to optimization of the speed and accuracy of forecast models;</li>
-* Search for insights and recommendations on technologies based on data analysis.</li>
-	
-
+* Optimization and detection of anomalies in the math models and computational algorithmss;</li>
+* Data Mining; MVP predictive model development.</li>
 
 **Brief:**
 * 5 years in predictive modeling (oil production) as a Research Engineer, Data Scientist, Applied Mathematician;  
-* MSc of Applied Mathematics and Computer Science (Russia, 2018);  
-* Success conducting predictive modeling techniques (Data Science, Physics Modeling) to support business decision-making.  
+* MSc of Applied Mathematics and Computer Science (Russia, 2018).
 
 **CV:** https://researchmachine.github.io/ 
 
