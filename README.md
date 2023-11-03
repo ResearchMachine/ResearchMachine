@@ -62,9 +62,5 @@ upscaling of layered heterogeneous medium](https://onepetro.org/OIJ/article-abst
 
 
 ## Contact
-I'm currently in Bangkok (GMT +7) and open to remote job opportunities as a Research Engineer, Data Scientist, or Quantitative Researcher.
-
-
-
 **Email:** abdulin.ildar.ai@gmail.com  
-**CV:** https://researchmachine.github.io/ 
+
