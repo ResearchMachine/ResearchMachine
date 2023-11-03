@@ -15,23 +15,6 @@
 
 **Languages:** Russian - Native, English - Upper-Intermediate.
 
-## ✍️ Publications 
-<sub>1. [Research Article, Scopus, 2021] [Production forecast method based on statistical analysis of a small sample of production data for an unconventional formation](https://onepetro.org/OIJ/article-abstract/2021/09/76/471866/Production-forecast-method-based-on-statistical?redirectedFrom=fulltext)  </sub>  
-<sub>2. [Research Article, Scopus, 2020] [Identification of fractal properties and parameters
-upscaling of layered heterogeneous medium](https://onepetro.org/OIJ/article-abstract/2020/01/46/187383/Identification-of-fractal-properties-and?redirectedFrom=fulltext)</sub>  
-<sub>3. [Research Article, 2019] [Numerical investigation of radial steady-state fluid flow model with Riesz potential](https://www.researchgate.net/publication/347176340_Numerical_investigation_of_radial_steady-state_fluid_flow_model_with_Riesz_potential) Greece, Rhodes</sub>    
-<sub>4. [Research Report, 2018] [Buckley-Leverett flow on limited-scale fractal curves.](https://drive.google.com/file/d/1hLrADL_Dlk3CTJo4hXmmZqamXgYGGhHA/view)</sub>    
-<sub>5. [Conference Report, 2019] [The 12th All-Russian Congress on Fundamental Problems of Theoretical and Applied Mechanics](https://www.imsp.ru/en/node/377), Уфа</sub>    
-<sub>6. [Conference Report, 2017] [International Conference on Mathematical Modelling in Applied Sciences.](https://www.mathnet.ru/php/conference.phtml?confid=998&option_lang=eng), Saint Peter., Polytech</sub>  
-<sub>7. [Conference Report, 2018] [Конференция актуальные проблемы приклад. математ.](http://niipma.ru/wp-content/uploads/2019/03/Programma-konferentsii-1.pdf), Нальчик–Эльбрус</sub>    
-<sub>8. [Conference Report, 2018] [Международная науч. конференция: «Нигматуллинские чтения»](https://www.elibrary.ru/item.asp?id=36770999), Казань</sub>      
-<sub>9. [Conference Report, 2017][ Конференция многофазные системы: модели, эксперимент, приложения.](https://www.elibrary.ru/item.asp?id=30054752) Уфа</sub> 
-
-
-
-<!--
-Эмодзи https://gist.github.com/rxaviers/7360908
--->
 
 ## :computer: Projects 
 
@@ -56,6 +39,27 @@ upscaling of layered heterogeneous medium](https://onepetro.org/OIJ/article-abst
 
 <p align="right"><sub>:star: favorite :mortar_board: academic :briefcase: work</sub> </p>
 <p align="right"><sub>All NDA data is hidden</sub> </p>
+
+
+## ✍️ Publications 
+<sub>1. [Research Article, Scopus, 2021] [Production forecast method based on statistical analysis of a small sample of production data for an unconventional formation](https://onepetro.org/OIJ/article-abstract/2021/09/76/471866/Production-forecast-method-based-on-statistical?redirectedFrom=fulltext)  </sub>  
+<sub>2. [Research Article, Scopus, 2020] [Identification of fractal properties and parameters
+upscaling of layered heterogeneous medium](https://onepetro.org/OIJ/article-abstract/2020/01/46/187383/Identification-of-fractal-properties-and?redirectedFrom=fulltext)</sub>  
+<sub>3. [Research Article, 2019] [Numerical investigation of radial steady-state fluid flow model with Riesz potential](https://www.researchgate.net/publication/347176340_Numerical_investigation_of_radial_steady-state_fluid_flow_model_with_Riesz_potential) Greece, Rhodes</sub>    
+<sub>4. [Research Report, 2018] [Buckley-Leverett flow on limited-scale fractal curves.](https://drive.google.com/file/d/1hLrADL_Dlk3CTJo4hXmmZqamXgYGGhHA/view)</sub>    
+<sub>5. [Conference Report, 2019] [The 12th All-Russian Congress on Fundamental Problems of Theoretical and Applied Mechanics](https://www.imsp.ru/en/node/377), Уфа</sub>    
+<sub>6. [Conference Report, 2017] [International Conference on Mathematical Modelling in Applied Sciences.](https://www.mathnet.ru/php/conference.phtml?confid=998&option_lang=eng), Saint Peter., Polytech</sub>  
+<sub>7. [Conference Report, 2018] [Конференция актуальные проблемы приклад. математ.](http://niipma.ru/wp-content/uploads/2019/03/Programma-konferentsii-1.pdf), Нальчик–Эльбрус</sub>    
+<sub>8. [Conference Report, 2018] [Международная науч. конференция: «Нигматуллинские чтения»](https://www.elibrary.ru/item.asp?id=36770999), Казань</sub>      
+<sub>9. [Conference Report, 2017][ Конференция многофазные системы: модели, эксперимент, приложения.](https://www.elibrary.ru/item.asp?id=30054752) Уфа</sub> 
+
+
+
+<!--
+Эмодзи https://gist.github.com/rxaviers/7360908
+-->
+
+
 
 ## Contact
 I'm currently in Bangkok (GMT +7) and open to remote job opportunities as a Research Engineer, Data Scientist, or Quantitative Researcher.
