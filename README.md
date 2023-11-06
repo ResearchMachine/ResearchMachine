@@ -8,7 +8,6 @@
 * 5 years in predictive modeling (oil production) as a Research Engineer, Data Scientist, Applied Mathematician;  
 * MSc of Applied Mathematics and Computer Science (Russia, 2018).
 
-**CV:** https://researchmachine.github.io/ 
 
 **Topics:** Data Science, Classical Machine Learning, Monte Carlo Simulation, MVP Development, Statistical Analysis of Small Sample Size, Nonlinear PDEs (Partial Differential Equations), Matlab, Python 3 (PEP 8, BeautifulSoup, cloudscraper, difflib, fipy, ipywidgets, matplotlib, numpy, pandas, re, sklearn, statsmodels, xgboost), Maple, Numerical Methods, Underground Fluid Flow Modeling (CFD), Fractals and Heavy-Tail Distribution (Fractional Derivatives) in Physics Modeling, LaTeX, FEA (Finite Element Analysis).
 
