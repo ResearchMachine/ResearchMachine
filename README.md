@@ -5,7 +5,7 @@
 * Data Mining; MVP predictive model development.</li>
 
 **Brief:**
-* 5 years in predictive modeling (oil production) as a Research Engineer, Data Scientist, Applied Mathematician;  
+* 5 years in mathematical modeling of oil production as a Research Engineer, Data Scientist, Applied Mathematician;  
 * MSc of Applied Mathematics and Computer Science (Russia, 2018).
 
 
