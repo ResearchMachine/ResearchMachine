@@ -17,7 +17,7 @@
 
 ## :computer: Projects 
 
-<!--1. :briefcase::star: [(2023) MVP of Search for Insights of Commercial Real Estate in Moscow by ML Methods](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow)  
+:briefcase::star: [(2023) Parsing and EDA of Commercial Real Estate in Moscow](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow)  
 <sub>Srart-Up Data Science Project. Programming Language: Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re)</sub>-->
 :briefcase::star: [(2022) Forecast of Oil Production of Special Group of Wells. Hydrodynamic Simulator Development, Finite Element Method](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex)  
 <sub>Commercial Mathematical Modeling Project. Company: Gazpromneft Technology Partnerships LLC (RUS). Programming Language: Python 3 (fipy, matplotlib, numpy)</sub>  
