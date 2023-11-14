@@ -24,7 +24,7 @@
 :mortar_board: :briefcase: [(2020) Derivation and Study of New Mathematical Model of Oil Movement. Examining Cases Where Simpler Model Can Be Used.](https://github.com/ResearchMachine/work-project-fractal-derivative-compare-power-law-buckley-leverett-flow)  
 <sub>Company: math. model. lab. GAMMETT. Programming Language: Python 3 (numpy, scipy), Maple 18</sub>  
 :briefcase: :mortar_board: [(2019) Accounting for Special Properties of Reservoir During Oil Production. Diffusion Model with Memory. ](https://github.com/ResearchMachine/work-project-radial-fractial-derivative-numerical-scheme)  
-<subb>Company: math. model. lab. GAMMETT. Programming Language: Maple 18, Python 3 </sub>  
+<sub>Company: math. model. lab. GAMMETT. Programming Language: Maple 18, Python 3 </sub>  
 :briefcase::star: [(2018) Identification of Fractal Properties of Oil Reservoir. Hyperparameters for Model Optimization of Diffusion Equation Problem. Dimension reduction (Grid Upscaling)](https://github.com/ResearchMachine/work-project-fractal-property-identification)  
 <sub>Company: math. model. lab. GAMMETT. Programming Language: Maple 18, Python 3 </sub>  
 :mortar_board: [(2018) Undeground Flow in Fractal Porous Media. Mathematical Modeling](https://github.com/ResearchMachine/master-degree-diploma-project-fractal-undeground-flow-modeling)  
