@@ -15,11 +15,11 @@
 
 :briefcase::star: [(2023) Parsing and EDA of Commercial Real Estate Special Segment in Moscow](https://github.com/ResearchMachine/commercial-project-ml-mvp-insight-in-real-estate-moscow)  
 <sub>Freelance Project. Programming Language: Python 3 (xgboost, difflib, sklearn, BeautifulSoup, cloudscraper, re)</sub>  
-:briefcase::star: [(2022) Forecast of Oil Production of Special Group of Wells. Hydrodynamic Simulator Development, Finite Element Method](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex)  
+:briefcase::star: [(2023) Forecast of Oil Production of Special Group of Wells. Hydrodynamic Simulator Development, Finite Element Method](https://github.com/ResearchMachine/commercial-project-hydrodynamic-in-predictive-complex)  
 <sub>Company: Gazpromneft Technology Partnerships LLC (RUS). Programming Language: Python 3 (fipy, matplotlib, numpy)</sub>  
-:briefcase: [(2021) Oil Production Predictive Model Transfer. VBA Parser from Excel Spreadsheet to VBA Code](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex)  
+:briefcase: [(2022) Oil Production Predictive Model Transfer. VBA Parser from Excel Spreadsheet to VBA Code](https://github.com/ResearchMachine/commercial-project-parcing-of-predictive-complex)  
 <sub>Company: Gazpromneft Technology Partnerships LLC. Programming Language: VBA </sub>  
-:briefcase::star: [(2020) Recommendations of Improving Oil Production Process. Small Size Data Analysis](https://github.com/ResearchMachine/commercial-project-small-oil-data-analysis)  
+:briefcase::star: [(2021) Recommendations of Improving Oil Production Process. Small Size Data Analysis](https://github.com/ResearchMachine/commercial-project-small-oil-data-analysis)  
 <sub>Company: Gazpromneft Technology Partnerships LLC. Programming Language: Python 3 (sklearn, ipywidgets, statsmodels, pandas, matplotlib)</sub>  
 :mortar_board: :briefcase: [(2020) Derivation and Study of New Mathematical Model of Oil Movement. Examining Cases Where Simpler Model Can Be Used.](https://github.com/ResearchMachine/work-project-fractal-derivative-compare-power-law-buckley-leverett-flow)  
 <sub>Company: math. model. lab. GAMMETT. Programming Language: Python 3 (numpy, scipy), Maple 18</sub>  
