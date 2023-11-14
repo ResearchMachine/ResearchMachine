@@ -33,7 +33,7 @@
 <sub>Bachelor Degree Project. Company: USATU. Programming Language: Maple 18 </sub>  
 
 <p align="right"><sub>:star: favorite :mortar_board: academic :briefcase: work</sub> </p>
-<p align="right"><sub>All NDA data is hidden</sub> </p>
+
 
 
 ## ✍️ Publications 
