@@ -1,7 +1,7 @@
 <h1 align="center">Ildar</h1>
 
 **Brief:** 
-* 5 years in mathematical modeling of oil production as a Research Engineer, Data Scientist, Applied Mathematician;  
+* 5 years in mathematical modeling;  
 * MSc of Applied Mathematics and Computer Science (Russia, 2018).
 
 
